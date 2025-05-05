@@ -19,3 +19,6 @@ except FileNotFoundError:
     print("Arquivo não encontrado.")
 except Exception as e:
     print(f"Erro: {e}")
+
+# These changes are made to make the code different so it can be committed.
+# Comments are always a good choice for that.
